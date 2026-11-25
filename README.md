@@ -18,7 +18,7 @@ Computer Science (CSE) student at University College of Engineering, Panruti (An
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS
 - **Backend:** Node.js, Express, FastAPI
 - **Databases:** PostgreSQL, Supabase, MongoDB, Prisma
-- **AI/APIs:** Gemini, Claude, Groq
+- **AI/APIs:** Gemini, Claude, Open API
 - **Tools:** Docker, Vercel, Render, Figma
 
 ## Contact
